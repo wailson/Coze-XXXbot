@@ -1,9 +1,9 @@
 [Coze]
 enable = true
 
-api-key = "pat_IHcP1tCoQAoQumCKoSLEMPjzgsTt9MlWdqTlHYlwx99VUL3ZB5MVIxUpW7ijCCLc" # Coze的API Key
+api-key = "pat_..." # Coze的API Key
 base-url = "https://api.coze.cn/v3/chat" # Coze API接口base url
-bot_id = "7469333872459726863" #Coze 模型体ID
+bot_id = "" #Coze 模型体ID
 
 commands = ["ai", "Coze", "聊天", "AI","扣子"]
 command-tip = """ -----XYBot-----
